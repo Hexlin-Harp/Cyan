@@ -43,16 +43,16 @@
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
+            "#3e2c2a",
+            "#3e2c2a"
+        ],
+        "BACKGROUND_SECONDARY": [
             "#271716",
             "#271716"
         ],
-        "BACKGROUND_SECONDARY": [
-            "#3e2c2a",
-            "#3e2c2a"
-        ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_TERTIARY": [
             "#554240",
