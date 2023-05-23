@@ -15,8 +15,8 @@
             "#271716"
         ],
         "HEADER_SECONDARY": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "TEXT_NORMAL": [
             "#ffffff",
@@ -43,8 +43,8 @@
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_SECONDARY": [
             "#271716",
@@ -55,20 +55,20 @@
             "#271716"
         ],
         "BACKGROUND_TERTIARY": [
-            "#554240",
-            "#554240"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_ACCENT": [
-            "#d69e87",
-            "#d69e87"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_FLOATING": [
             "#271716",
             "#271716"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#271716",
@@ -115,8 +115,8 @@
             "1a1926"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#A9966A",
-            "#d8c28f"
+            "#ffffff",
+            "#ffffff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
@@ -167,7 +167,7 @@
       "background": {
     "blur": 0.5,
     "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1096862893552709642/9b851517dfd4402482ceff768c79d4db.jpg",
-    "alpha": 0.7
+    "alpha": 1
     },
-    "color": "#3e2c2a"
+    "color": "#271716"
 }
