@@ -11,20 +11,20 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
         
-            "#68627C",
-            "#edd49b"
+            "#271716",
+            "#271716"
         ],
         "HEADER_SECONDARY": [
-            "#d8c28f",
-            "#d8c28f"
+            "#3e2c2a",
+            "#3e2c2a"
         ],
         "TEXT_NORMAL": [
-            "#D6D6D6",
-            "#c8c8c8"
+            "#ffffff",
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#A9966A",
-            "#C8B68E"
+            "#efd8cf",
+            "#efd8cf"
         ],
         "INTERACTIVE_NORMAL": [
             "#d8c28f",
@@ -67,36 +67,36 @@
             "#271716"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
+            "#3e2c2a",
+            "#3e2c2a"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
             "#271716",
             "#271716"
         ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#3e2c2a",
-            "#3e2c2a"
-        ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#3e2c2a",
-            "#3e2c2a"
+            "#271716",
+            "#271716"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b",
